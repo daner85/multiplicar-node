@@ -2,6 +2,6 @@
 
 Archivo de prueba
 
-..
+...
 npm install
-..
+...
